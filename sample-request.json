@@ -1,0 +1,13 @@
+{
+  "customer": {
+    "company": "Example Logistics",
+    "contact_person": "John Smith",
+    "phone": "+1234567890"
+  },
+  "request": {
+    "type": "GPS Installation",
+    "vehicles": 5,
+    "city": "Astana",
+    "status": "New"
+  }
+}
