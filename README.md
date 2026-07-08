@@ -46,6 +46,16 @@ This automation helps reduce manual work, improve response speed, and make custo
 This project is based on real business automation experience.  
 A public demo workflow will be added later after removing sensitive business data.
 
+## Repository Structure
+
+```text
+.
+├── README.md
+├── docs
+│   └── SYSTEM_OVERVIEW.md
+└── workflow
+    └── (coming soon)
+```
 ## Author
 
 Bogdan Negodyayev  
